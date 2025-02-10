@@ -26,7 +26,7 @@ btn.addEventListener('click', () => {
     Swal.fire({
         title: 'Choose CV Format',
         html: `
-                <div style="font-size: 3rem; color: #2563eb; margin-bottom: 10px;">
+                <div style="font-size: 3rem; color: #7B2CBF; margin-bottom: 10px;">
                     <i class="fas fa-file-alt"></i>
                 </div>
                 <p>Select download format</p>
